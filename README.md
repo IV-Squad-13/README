@@ -109,12 +109,15 @@ Documentação API:
 	
 	•  Anthony Yuri Feitosa França - BackEnd
 	•  Daniel de Oliveira Mendonça Mota - FrontEnd
-    •  Fábio Tarcísio Cardoso Moura - BackEnd
-    •  Rafael Gonçalvez Menezes - BackEnd
+    •  Erick Thalles Dantas Freire - FrontEnd/ PO
+	•  Fábio Tarcísio Cardoso Moura - BackEnd
+    •  Franck Patrick Hora Vasconcelos - DevOps
+	•  Rafael Gonçalvez Menezes - BackEnd/DevOps
 	•  Marcelo Gomes Alves -FrontEnd
 	•  Murilo Pedral Mota - FrontEnd
 	•  Rene Mendonça Marinho - UI/FrontEnd
-
+	
+	
 
 
 🏢 Sobre a Jotanunes Construtora
